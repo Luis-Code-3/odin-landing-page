@@ -66,9 +66,49 @@ button {
 }
 
 .intro img {
-    width: 500px;
-    height: auto;
+    max-width: 500px;
+    max-height: auto;
 }
 
 /* END OF 1ST SECTION */
+
+.third {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 300px;
+}
+
+.third h1 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    margin: 0;
+}
+
+.ranpic {
+    display: flex;
+    gap: 60px;
+    margin: 50px 0;
+}
+
+.picgroup {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ranpic img {
+    width: 200px;
+    height: 200px;
+    border: 30px #3882f6;
+}
+
+.ranpic p {
+    text-align: center;
+}
+
+/* END OF 2ND SECTION */
+
+
 
