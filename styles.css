@@ -76,7 +76,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 50px 300px;
+    margin: 50px 300px;
 }
 
 .third h1 {
@@ -170,4 +170,15 @@ button {
 .callaction button {
     margin: 0;
     border: solid white;
+}
+
+/* END OF 4TH SECTION */
+
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
 }
