@@ -30,9 +30,12 @@ a {
     font-size: 18px;
 }
 
+/* END OF HEADER */
+
 .intro {
     display: flex;
     align-items: flex-start;
+    justify-content: center;
     background-color: #1F2937;
     gap: 60px;
     padding: 115px 215px;
@@ -66,3 +69,6 @@ button {
     width: 500px;
     height: auto;
 }
+
+/* END OF 1ST SECTION */
+
